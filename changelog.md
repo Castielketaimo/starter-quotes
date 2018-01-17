@@ -6,3 +6,4 @@ Owned by Team Void-COMP4711
 Change Log
 ==========
 Added initial setup of changelog.md - NC
+Added avatar image
