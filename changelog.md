@@ -7,3 +7,4 @@ Change Log
 ==========
 Added initial setup of changelog.md - NC
 Added avatar image
+Added tooltip for the image - NC
